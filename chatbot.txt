@@ -1,0 +1,37 @@
+S&P Global is an American publicly traded corporation headquartered in New York City, Its primary areas of business are financial information and analytics. 
+
+Ratings provides independent investment research including ratings on various investment instruments.
+
+Market Intelligence is a provider of multi-asset class and real-time data, research, news and analytics to institutional investors, investment and commercial banks, investment advisors and wealth managers, corporations, and universities.
+
+Dow Jones Indices is the world's largest global resource for index-based concepts, data, and research, It produces the S&P 500 and the Dow Jones Industrial Average. S&P Dow Jones Indices calculates over 830,000 indices, publishes benchmarks that provide the basis for 575 ETFs globally with $387 billion in assets invested, and serves as the DNA for $1.5 trillion of the world’s indexed assets.
+
+Headquartered in London, S&P Global Platts is a provider of information and a source of benchmark price assessments for the commodities, energy, petrochemicals, metals, and agriculture markets, It has offices in more than 15 cities, including major energy centres such as London, Dubai, Singapore, and Houston, and international business centres such as São Paulo, Shanghai, and New York City.
+
+Index is defined as a market Index follows a certain market and gives investors a single number to summarize its ups and downs, It enables the world's institutional (and retail) investors to track a market or market sector without having to aggregate the underlying components. It is a convenient way for someone interested in a broad, narrow, or extremely narrow group of securities to track them.
+
+The DJI has over 130,000 indexes, although many are used by only relatively few people. Most are principally equity (stock) indexes but also contain fixed-income, futures, options, private equity, commodity, currency, bond, and other alternative asset class metrics. Dow Jones Indexes says that all its products are maintained according to clear, unbiased, and systematic methodologies that are fully integrated within index families.
+
+S&P500 is an American stock market index based on the market capitalizations of 500 large companies having common stock listed on the NYSE, NASDAQ, or the Cboe BZX Exchange.
+
+Standard & Poor's is a leading index provider and source of independent credit ratings. S&P was founded in 1860, offering financial market intelligence. S&P Global divisions include S&P Global Ratings, S&P Global Market Intelligence, S&P Dow Jones Indices and S&P Global Platts.
+
+Custom indices are calculated on index every 15 seconds—24 hours a day, seven days a week—or using a pre-determined frequency.
+
+SPICE is a powerful platform that delivers a wealth of data on more than 250,000 equity and fixed income indices.If you are a portfolio manager, advisor, analyst, or other investment professional who uses index data or passive products, SPICE can help you with research, reporting, and analysis.
+
+Custom indices are maintained by teams provide support and service from five regional centers in NewYork, London, Beijing, Tokyo, and Sydney.
+
+Intraday alerts notifies index companies with merger, acquisition.
+
+Announcements are notifications created in care and ppm systems are pushed to spice based on subscribed index or Region.
+
+Documents are the files which are placed in ppm and care are avaible to downloads/links here.
+
+Index finder in datacenter is used to search the index based on equlity.
+
+My list in spice saves the indices which are subscibed by the user and you can mark as favorite indices, limit is maximum 50 for list. 
+
+FTP files constist of index related content which you can download ftp files depends on package.
+
+
